@@ -421,3 +421,7 @@ a:hover{
     grid-template-rows: 1fr;
   }
 }
+
+.video-container{
+  margin-left: 270px;
+}
